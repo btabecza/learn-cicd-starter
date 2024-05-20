@@ -24,7 +24,7 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 ## Testing
 
-![code coverage badge](https://github.com/btabecza/learn-cicd-starter/actions/workflows/CI.yml/badge.svg)
+![code coverage badge](https://github.com/wagslane/go-rabbitmq/actions/workflows/Tests.yml/badge.svg)
 
 Run the tests:
 
