@@ -24,7 +24,6 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 ## Testing
 
-https://github.com/btabecza/learn-cicd-starter.git
 ![code coverage badge](https://github.com/btabecza/learn-cicd-starter/actions/workflows/CI.yml/badge.svg)
 
 Run the tests:
